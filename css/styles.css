@@ -1,0 +1,162 @@
+main {
+    background-color: #9A7FAE;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav {
+    margin-bottom: 7%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+li {
+    display: inline;
+    padding: 1%;
+}
+
+aside {
+    float: right;
+}
+
+form {
+    outline: none;
+    background-color: white;
+    color: gray;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 0px;
+    border-radius: 25px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+fieldset {
+    border-style: none;
+}
+
+label {
+    margin-right: 10%;
+}
+
+footer {
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+}
+
+#navBar {
+    list-style: none;
+}
+
+#signIn {
+    background-color: white;
+    color: black;
+    border-style: none;
+    padding: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-left: 1%;
+    border-radius: 25px;
+}
+
+#content {
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 15px;
+}
+
+#book {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.displayBox {
+    display: inline-block;
+    background-color: white;
+    color: black;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.links {
+    display: flex;
+}
+
+.imgLink {
+    flex: 33.33%;
+    width: 70%;
+    border-radius: 15px;
+}
+
+.heading1 {
+    font-size: 25px;
+}
+
+.heading2 {
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.signIn {
+    color: black;
+}
+
+.readBro {
+    background-color: white;
+    color: black;
+    border-style: none;
+    padding: 2%;
+    padding-left: 4%;
+    padding-right: 4%;
+    margin-top: 3%;
+    margin-bottom: 7%;
+    border-radius: 10px;
+}
+
+.name {
+    font-size: xx-large;
+    text-align: left;
+    margin-right: 40%;
+}
+
+.headerText {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.contentText {
+    font-size: 25px;
+    width: 40%;
+    float: left;
+    margin-bottom: 20%;
+}
+
+input[type=date] {
+    background-color: rgb(207, 205, 205);
+    border-radius: 25px;
+    border-style: none;
+    padding: 1%;
+    padding-right: 5%;
+    margin-right: 2%;
+}
+
+input[type=number] {
+    background-color: rgb(207, 205, 205);
+    border-radius: 25px;
+    border-style: none;
+    padding: 1%;
+}
